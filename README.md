@@ -17,4 +17,7 @@ the fake sales and location data are created randomly in excel.
 the us census shapefile data can be found at this link:
 https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
 
-prior to use their data, please check their restrictions and requirements.
+please download it and place it in the input folder, if you want the code to run.
+i have specifically left it out because of its size.
+
+prior to using the us census data, please check their restrictions and requirements.
